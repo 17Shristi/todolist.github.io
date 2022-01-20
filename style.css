@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+h1{
+    
+    text-shadow: rosybrown;
+    color: salmon;
+    padding-bottom: 2%;
+}
+li{
+    margin-top:1%; 
+   
+}
+button.icon{
+    float: right;
+    
+    background-color: blanchedalmond;
+    border: blanchedalmond;
+}
+
+
+.container{
+    background-color: blanchedalmond;
+    margin-top: 10%;
+    padding: 5% 5%;
+}
+.container.in{
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.boxs{
+    width: 40%;
+    text-align: justify;
+    margin:0 auto;
+    
+    
+}
+.bits{
+    margin:0px 5px 5px 5px;
+    vertical-align: top;
+    padding: .300rem .75rem;
+}
+
+#text-filed{
+    display: inline-block;
+    padding-top: 1%;
+    padding-right: 2%;
+    width: 40%;
+}
